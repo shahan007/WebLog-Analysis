@@ -1,6 +1,9 @@
 # WebLog-Analysis
 
-### Setting up environment
+#### Clone the repo
+`git clone https://github.com/shahan007/WebLog-Analysis`
+
+#### Setting up environment
 
 `conda create -n env`
 
@@ -9,5 +12,5 @@
 `conda install --file ./requirements.txt --channel conda-forge`
 
 
-### Starting the file
+#### Starting the file
 `jupyter notebook WebLog-Analysis.ipynb`
